@@ -57,11 +57,20 @@ Includes the following tables:
 
 ## 📸 Screenshots
 
-- Start Screen
+
+- ![WhatsApp Image 2025-05-25 at 21 08 14_dbba88de](https://github.com/user-attachments/assets/0d8e4cb7-b22d-44f0-9c41-fd79ce17262c)
+
 - Login Page
 - Dashboard
-- Add Employee/Room/Driver/Customer Forms
+
+- ![WhatsApp Image 2025-05-25 at 21 12 58_3fd44b85](https://github.com/user-attachments/assets/c6ef6a83-301b-46e6-9196-94e8ab11d8b8)
+
+- 
 - Room and Customer Details Views
+- ![WhatsApp Image 2025-05-25 at 21 17 47_2a619e78](https://github.com/user-attachments/assets/0ee2f61f-7bac-4666-8ce8-b89bde209536)
+
+
+- 
 
 ## ✅ Conclusion
 
