@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Package Files
+*.log
+*.tmp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
